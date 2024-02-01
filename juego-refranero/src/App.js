@@ -1,11 +1,11 @@
 import React from 'react';
-import Game from './Components/Game';
+import VozOrdenes from './Components/VozOrdenes';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Game />
+        <VozOrdenes />
       </header>
     </div>
   );
